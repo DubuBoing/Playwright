@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9005","@smoke Popup validations","Safari","Thu Oct 23 20:45:42 EDT 2025","passed","Thu Oct 23 20:45:51 EDT 2025","","Validations.spec.js","",""
+"","7148","@smoke Popup validations","Chrome","Thu Oct 23 20:45:42 EDT 2025","passed","Thu Oct 23 20:45:50 EDT 2025","","Validations.spec.js","",""
+"","7544","@smoke Browser Contect Playwright test","Chrome","Thu Oct 23 20:45:42 EDT 2025","passed","Thu Oct 23 20:45:50 EDT 2025","","UIBasicstest.spec.js","",""
+"","8343","@smoke Browser Contect Playwright test","Safari","Thu Oct 23 20:45:42 EDT 2025","passed","Thu Oct 23 20:45:51 EDT 2025","","UIBasicstest.spec.js","",""
