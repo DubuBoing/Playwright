@@ -1,0 +1,1 @@
+Github repository for the skills learned from the course "End to End Playwright tutorials on JavaScript & TypeScript - UI Testing, API testing, AI Agents, MCP, Cucumber, CI/CD etc" from Rahul Shetty Academy
